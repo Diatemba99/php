@@ -1,0 +1,10 @@
+form{
+    margin-top: 5%;
+    margin-left: 15%;
+}
+input{
+    width: 100px;
+    height: 40px;
+    background-color: gainsboro;
+    border: none;
+}
